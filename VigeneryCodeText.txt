@@ -1,0 +1,8 @@
+
+Der Vigenère-Code ist eine Methode zur Verschlüsselung von alphanumerischem Text 
+mithilfe einer einfachen Form der Polyalphabet-Substitution. 
+Ein polyalphabetisches System verwendet mehrere Substitutionsalphabete zum Codieren des Textes.
+
+Die Vigenère-Verschlüsselung verwendet einen Schlüsselbegriff, 
+der wiederholt wird, bis er die Länge des zu verschlüsselnden Textes erreicht hat. 
+Jeder Buchstabe im Schlüssel gibt an, wie viele Positionen der Buchstabe des Klartexts im Alphabet verschoben werden soll.

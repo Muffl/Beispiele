@@ -1,0 +1,10 @@
+
+
+13 Game of Life (Tag 3) 
+Programmiere das Spiel Game of Life von Conway 3. In diesem Spiel werden Zellen simuliert, 
+deren Leben von ihren Nachbarfeldern abhängen. Dafür sind die Regeln wie folgt:
+
+• Eine tote Zelle wird lebendig, wenn genau drei Nachbarzellen leben.
+• Eine lebendige Zelle stirbt, wenn sie weniger als zwei lebendige Nachbarzellen besitzt (Einsamkeit).
+• Eine lebendige Zelle bleibt am Leben, wenn zwei oder drei Nachbarn lebendig sind.
+• Eine lebendige Zelle stirbt, wenn mehr als drei Nachbarzellen lebendig sind (Überbevölkerung).
