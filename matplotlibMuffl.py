@@ -38,11 +38,11 @@ print()
 
 # Reiskörner berechnen
 
-wert = [1]
-erg = 1
-Gesamtgew = 0
-Gesamtanzahl = 0
-for i in range(1, 65, 1):
+wert = [1.0]
+erg = 1.0
+Gesamtgew = 0.00
+Gesamtanzahl = 0.00
+for i in range(1, 64, 1):
     erg = erg * 2
     if i == 64:
         erg = erg -1
